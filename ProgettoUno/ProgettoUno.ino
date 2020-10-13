@@ -34,8 +34,8 @@ int on = 0;
 unsigned long lastMillis = 0;
 String weather;
 boolean done = false;
-const char ssid[] = "FASTWEB-E1784722";
-const char pass[] = "TP2Z7C1P48";
+const char ssid[] = "SSID";
+const char pass[] = "PASS";
 
 
 void setup()
