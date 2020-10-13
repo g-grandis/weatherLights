@@ -20,7 +20,7 @@ Per far funzionare il progetto bisogna inserire un API Key per openWeathermap e 
 <br>
 
 ### Layer Node RED
-<img src="img/LayerNodeRED.png"
+<img src="img/LayerNodeRED.PNG"
      alt="NodeRED"/><br>
 
 ### Immagini 
